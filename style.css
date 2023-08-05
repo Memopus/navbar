@@ -65,8 +65,7 @@ img {
     background-color: rgba(255, 255, 255, 0.3);
     backdrop-filter: blur(
       5px
-    ); /* Set the height to take up all available height */
-  }
+    ); 
   .responsive-nav ul {
     height: 100%;
     display: flex;
