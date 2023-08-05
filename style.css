@@ -63,9 +63,8 @@ img {
     height: 50vh;
     background: inherit;
     background-color: rgba(255, 255, 255, 0.3);
-    backdrop-filter: blur(
-      5px
-    ); 
+    backdrop-filter: blur(5px);
+  }
   .responsive-nav ul {
     height: 100%;
     display: flex;
